@@ -1,0 +1,69 @@
+about:
+  description: Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+  license: GPL-3.0
+  homepage: https://cyberduck.io
+  head: 8c0d2cd
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T03:56:22Z
+timeline:
+  created: 2017-01-20
+  lastCommit: 2026-08-31
+  lastRelease: ?
+popularity:
+  star: 4733
+  watcher: 54
+  fork: 364
+  release: 0
+  contributor: 45
+  pullRequest: 797
+  issue: 12541
+language:
+  Java: 22999581
+  C#: 1806269
+  Rich Text Format: 257907
+  HTML: 83530
+  Objective-C: 82051
+  Shell: 15149
+  C: 10688
+  Dockerfile: 4668
+  Ruby: 3372
+  Python: 2676
+  PowerShell: 2277
+  JavaScript: 1366
+  Swift: 1144
+  Makefile: 191
+totalLine: 25270869
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 29
+    openPR: 4
+    closedIssue: 12
+    openIssue: 7
+    commit: 67
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 88
+    openPR: 8
+    closedIssue: 72
+    openIssue: 25
+    commit: 317
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 208
+    openPR: 13
+    closedIssue: 133
+    openIssue: 33
+    commit: 841
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 382
+    openPR: 17
+    closedIssue: 247
+    openIssue: 75
+    commit: 1789
