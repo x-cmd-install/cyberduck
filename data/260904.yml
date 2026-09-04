@@ -7,7 +7,7 @@ about:
   head: acd98b5
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:22:01Z
+  collectedAt: 2026-09-04T21:11:44Z
 timeline:
   created: 2017-01-20
   lastCommit: 2026-09-03
@@ -93,6 +93,144 @@ total:
   openIssue: 479
   commit: 45562
 ---
+path: /home/runner/.x-repo/github.com/iterate-ch/cyberduck
+collectedAt: 2026-09-04T21:12:05Z
+loc:
+  Java:
+    code: 377938
+    comments: 129432
+    blanks: 80551
+    files: 4550
+  CSharp:
+    code: 48357
+    comments: 8591
+    blanks: 5771
+    files: 335
+  Json:
+    code: 48303
+    comments: 0
+    blanks: 0
+    files: 19
+  Xml:
+    code: 7309
+    comments: 1094
+    blanks: 325
+    files: 86
+  Yaml:
+    code: 2398
+    comments: 25
+    blanks: 21
+    files: 6
+  DotNetResource:
+    code: 2286
+    comments: 1180
+    blanks: 0
+    files: 20
+  Html:
+    code: 1403
+    comments: 0
+    blanks: 72
+    files: 1
+  ObjectiveC:
+    code: 1328
+    comments: 423
+    blanks: 155
+    files: 21
+  Xaml:
+    code: 1250
+    comments: 14
+    blanks: 42
+    files: 10
+  Ini:
+    code: 1027
+    comments: 0
+    blanks: 154
+    files: 2
+  MsBuild:
+    code: 992
+    comments: 518
+    blanks: 250
+    files: 59
+  Sh:
+    code: 385
+    comments: 67
+    blanks: 38
+    files: 6
+  CHeader:
+    code: 186
+    comments: 271
+    blanks: 70
+    files: 19
+  VisualStudioSolution:
+    code: 182
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 134
+    comments: 0
+    blanks: 23
+    files: 6
+  C:
+    code: 97
+    comments: 92
+    blanks: 28
+    files: 1
+  Ruby:
+    code: 90
+    comments: 6
+    blanks: 11
+    files: 3
+  Bitbake:
+    code: 65
+    comments: 0
+    blanks: 10
+    files: 2
+  Python:
+    code: 64
+    comments: 8
+    blanks: 11
+    files: 1
+  JavaScript:
+    code: 55
+    comments: 0
+    blanks: 0
+    files: 1
+  PowerShell:
+    code: 54
+    comments: 1
+    blanks: 7
+    files: 3
+  RPMSpecfile:
+    code: 40
+    comments: 5
+    blanks: 11
+    files: 1
+  Swift:
+    code: 14
+    comments: 16
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 8
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2576
+    blanks: 433
+    files: 7
+  Text:
+    code: 0
+    comments: 9654
+    blanks: 1982
+    files: 45
+total:
+  code: 494049
+  comments: 153973
+  blanks: 89981
+  files: 5207
 ---
 date: "2026-08-24"
 repo:
