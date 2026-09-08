@@ -5,13 +5,13 @@ about:
   head: d51c2c3
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T03:02:24Z
+  collectedAt: 2026-09-08T05:44:21Z
 timeline:
   created: 2017-01-20
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 4755
+  star: 4756
   watcher: 55
   fork: 367
   release: 0
@@ -92,7 +92,7 @@ total:
   commit: 45565
 ---
 path: /home/runner/.x-repo/github.com/iterate-ch/cyberduck
-collectedAt: 2026-09-08T03:03:16Z
+collectedAt: 2026-09-08T05:45:04Z
 loc:
   Java:
     code: 377938
