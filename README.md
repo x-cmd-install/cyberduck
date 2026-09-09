@@ -7,7 +7,7 @@ Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-09-08
 - **License**: GPL-3.0
-- **Stars**: 4758 · **Forks**: 367 · **Open issues**: 12547 · **Contributors**: 45
+- **Stars**: 4761 · **Forks**: 367 · **Open issues**: 12547 · **Contributors**: 45
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/cyberduck> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:09:06Z._
+_Last regenerated: 2026-09-09T06:01:14Z._
