@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:01:52Z
+  collectedAt: 2026-09-10T21:21:33Z
 timeline:
   created: 2017-01-20
   lastCommit: 2026-09-10
@@ -96,7 +96,7 @@ total:
   commit: 45585
 ---
 path: /home/runner/.x-repo/github.com/iterate-ch/cyberduck
-collectedAt: 2026-09-10T18:02:40Z
+collectedAt: 2026-09-10T21:22:25Z
 loc:
   Java:
     code: 378095
