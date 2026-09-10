@@ -373,3 +373,4 @@ checks:
     reason: packaging workflow detected
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/deploy.yml:8'
+---
