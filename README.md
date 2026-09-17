@@ -14,11 +14,11 @@ x install cyberduck
 
 ## Code insight
 
-Total: **494,324** lines of code across **5001** files in the top 5 languages.
+Total: **494,431** lines of code across **5002** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 378,360 | 129,563 | 80,609 | 4555 |
+| Java | 378,467 | 129,595 | 80,627 | 4556 |
 | CSharp | 48,357 | 8,591 | 5,771 | 335 |
 | Json | 48,303 | 0 | 0 | 19 |
 | Xml | 7,281 | 1,099 | 323 | 86 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,783 · **Forks**: 368 · **Open issues**: 12,555 · **Contributors**: 45
+- **Stars**: 4,785 · **Forks**: 369 · **Open issues**: 12,559 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2700 · **Open PRs**: 37 · **Closed issues**: 12071 · **Open issues**: 484 · **Commits**: 45771
+- **Releases**: 0 · **Merged PRs**: 2711 · **Open PRs**: 28 · **Closed issues**: 12076 · **Open issues**: 483 · **Commits**: 45805
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 29 | 15 | 15 | 11 | 216 |
-| last60d | 2026-07-18 | 0 | 61 | 16 | 28 | 14 | 353 |
-| 90d | 2026-06-18 | 0 | 95 | 17 | 72 | 29 | 502 |
-| last180d | 2026-03-20 | 0 | 212 | 23 | 131 | 34 | 971 |
-| 360d | 2025-09-21 | 0 | 380 | 26 | 239 | 75 | 1878 |
-| last720d | 2024-09-26 | 0 | 806 | 30 | 513 | 155 | 3625 |
+| 30d | 2026-08-18 | 0 | 36 | 7 | 17 | 13 | 249 |
+| last60d | 2026-07-19 | 0 | 71 | 8 | 31 | 15 | 386 |
+| 90d | 2026-06-19 | 0 | 104 | 9 | 72 | 29 | 535 |
+| last180d | 2026-03-21 | 0 | 220 | 15 | 135 | 34 | 1004 |
+| 360d | 2025-09-22 | 0 | 384 | 17 | 244 | 74 | 1911 |
+| last720d | 2024-09-27 | 0 | 816 | 21 | 518 | 154 | 3659 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:09:54Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:15:16Z._
