@@ -4,7 +4,7 @@
 
 Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 
-[![x-cmd/install — cyberduck Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cyberduck.svg?lang=zh)](https://x-cmd.com/install/cyberduck)
+[![x-cmd/install — cyberduck Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cyberduck.svg?lang=zh)](https://x-cmd.com/install/cyberduck)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install cyberduck
 
 ## 代码洞察
 
-合计: **495,494** 行代码（覆盖前 5 种语言、共 **5010** 个文件）。
+合计: **495,575** 行代码（覆盖前 5 种语言、共 **5009** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 379,494 | 129,919 | 80,770 | 4564 |
+| Java | 379,575 | 129,918 | 80,782 | 4563 |
 | CSharp | 48,364 | 8,591 | 5,771 | 335 |
 | Json | 48,303 | 0 | 0 | 19 |
 | Xml | 7,281 | 1,099 | 323 | 86 |
@@ -42,22 +42,22 @@ x install cyberduck
 
 ## 流行度
 
-- **Star**: 4,795 · **Fork**: 369 · **开放 issue**: 12,561 · **贡献者**: 46
+- **Star**: 4,801 · **Fork**: 370 · **开放 issue**: 12,563 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2720 · **开放 PR**: 26 · **已关闭 issue**: 12081 · **开放 issue**: 480 · **提交数**: 45838
+- **发布数**: 0 · **已合并 PR**: 2726 · **开放 PR**: 25 · **已关闭 issue**: 12082 · **开放 issue**: 481 · **提交数**: 45850
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 41 | 5 | 18 | 10 | 247 |
-| last60d | 2026-07-24 | 0 | 71 | 6 | 32 | 13 | 376 |
-| 90d | 2026-06-24 | 0 | 106 | 7 | 68 | 23 | 506 |
-| last180d | 2026-03-26 | 0 | 225 | 13 | 136 | 32 | 1003 |
-| 360d | 2025-09-27 | 0 | 388 | 15 | 240 | 69 | 1911 |
-| last720d | 2024-10-02 | 0 | 818 | 19 | 517 | 151 | 3683 |
+| 30d | 2026-08-24 | 0 | 45 | 4 | 18 | 11 | 257 |
+| last60d | 2026-07-25 | 0 | 76 | 5 | 33 | 14 | 386 |
+| 90d | 2026-06-25 | 0 | 111 | 6 | 65 | 23 | 516 |
+| last180d | 2026-03-27 | 0 | 231 | 12 | 137 | 33 | 1013 |
+| 360d | 2025-09-28 | 0 | 394 | 14 | 241 | 69 | 1921 |
+| last720d | 2024-10-03 | 0 | 823 | 18 | 517 | 152 | 3689 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ cyberduck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:10:16Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:14:58Z._

@@ -4,7 +4,7 @@
 
 Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 
-[![x-cmd/install — cyberduck Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cyberduck.svg)](https://x-cmd.com/install/cyberduck)
+[![x-cmd/install — cyberduck Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cyberduck.svg)](https://x-cmd.com/install/cyberduck)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install cyberduck
 
 ## Code insight
 
-Total: **495,494** lines of code across **5010** files in the top 5 languages.
+Total: **495,575** lines of code across **5009** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 379,494 | 129,919 | 80,770 | 4564 |
+| Java | 379,575 | 129,918 | 80,782 | 4563 |
 | CSharp | 48,364 | 8,591 | 5,771 | 335 |
 | Json | 48,303 | 0 | 0 | 19 |
 | Xml | 7,281 | 1,099 | 323 | 86 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,795 · **Forks**: 369 · **Open issues**: 12,561 · **Contributors**: 46
+- **Stars**: 4,801 · **Forks**: 370 · **Open issues**: 12,563 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2720 · **Open PRs**: 26 · **Closed issues**: 12081 · **Open issues**: 480 · **Commits**: 45838
+- **Releases**: 0 · **Merged PRs**: 2726 · **Open PRs**: 25 · **Closed issues**: 12082 · **Open issues**: 481 · **Commits**: 45850
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 41 | 5 | 18 | 10 | 247 |
-| last60d | 2026-07-24 | 0 | 71 | 6 | 32 | 13 | 376 |
-| 90d | 2026-06-24 | 0 | 106 | 7 | 68 | 23 | 506 |
-| last180d | 2026-03-26 | 0 | 225 | 13 | 136 | 32 | 1003 |
-| 360d | 2025-09-27 | 0 | 388 | 15 | 240 | 69 | 1911 |
-| last720d | 2024-10-02 | 0 | 818 | 19 | 517 | 151 | 3683 |
+| 30d | 2026-08-24 | 0 | 45 | 4 | 18 | 11 | 257 |
+| last60d | 2026-07-25 | 0 | 76 | 5 | 33 | 14 | 386 |
+| 90d | 2026-06-25 | 0 | 111 | 6 | 65 | 23 | 516 |
+| last180d | 2026-03-27 | 0 | 231 | 12 | 137 | 33 | 1013 |
+| 360d | 2025-09-28 | 0 | 394 | 14 | 241 | 69 | 1921 |
+| last720d | 2024-10-03 | 0 | 823 | 18 | 517 | 152 | 3689 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:10:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:14:57Z._
