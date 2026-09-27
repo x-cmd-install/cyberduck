@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 44 | 6 | 17 | 11 | 259 |
-| last60d | 2026-07-28 | 0 | 75 | 7 | 33 | 16 | 388 |
-| 90d | 2026-06-28 | 0 | 106 | 8 | 62 | 25 | 518 |
-| last180d | 2026-03-30 | 0 | 232 | 14 | 136 | 35 | 1015 |
-| 360d | 2025-10-01 | 0 | 386 | 16 | 240 | 69 | 1923 |
-| last720d | 2024-10-06 | 0 | 824 | 20 | 517 | 154 | 3690 |
+| 30d | 2026-08-28 | 0 | 43 | 6 | 17 | 11 | 183 |
+| last60d | 2026-07-29 | 0 | 74 | 7 | 33 | 16 | 361 |
+| 90d | 2026-06-29 | 0 | 106 | 8 | 61 | 25 | 492 |
+| last180d | 2026-03-31 | 0 | 232 | 14 | 136 | 35 | 980 |
+| 360d | 2025-10-02 | 0 | 384 | 16 | 238 | 69 | 1881 |
+| last720d | 2024-10-07 | 0 | 821 | 20 | 517 | 154 | 3690 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:55:13Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:11:37Z._
