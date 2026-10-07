@@ -26,13 +26,13 @@ Total: **494,696** lines of code across **5002** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,823 · **Forks**: 372 · **Open issues**: 12,573 · **Contributors**: 46
+- **Stars**: 4,824 · **Forks**: 372 · **Open issues**: 12,574 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2737 · **Open PRs**: 26 · **Closed issues**: 12087 · **Open issues**: 486 · **Commits**: 45875
+- **Releases**: 0 · **Merged PRs**: 2738 · **Open PRs**: 27 · **Closed issues**: 12087 · **Open issues**: 487 · **Commits**: 45877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 43 | 5 | 13 | 14 | 123 |
-| last60d | 2026-08-07 | 0 | 76 | 6 | 30 | 19 | 368 |
-| 90d | 2026-07-08 | 0 | 106 | 7 | 52 | 25 | 469 |
-| last180d | 2026-04-09 | 0 | 237 | 13 | 132 | 39 | 970 |
-| 360d | 2025-10-11 | 0 | 389 | 15 | 238 | 71 | 1884 |
-| last720d | 2024-10-16 | 0 | 823 | 19 | 517 | 156 | 3690 |
+| 30d | 2026-09-07 | 0 | 42 | 6 | 13 | 14 | 125 |
+| last60d | 2026-08-08 | 0 | 77 | 7 | 30 | 20 | 370 |
+| 90d | 2026-07-09 | 0 | 104 | 8 | 50 | 26 | 471 |
+| last180d | 2026-04-10 | 0 | 238 | 14 | 130 | 40 | 972 |
+| 360d | 2025-10-12 | 0 | 390 | 16 | 238 | 72 | 1886 |
+| last720d | 2024-10-17 | 0 | 820 | 20 | 517 | 157 | 3689 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:31:30Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:50:33Z._

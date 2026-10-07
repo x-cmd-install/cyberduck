@@ -26,13 +26,13 @@ x install cyberduck
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install cyberduck
 
 ## 流行度
 
-- **Star**: 4,823 · **Fork**: 372 · **开放 issue**: 12,573 · **贡献者**: 46
+- **Star**: 4,824 · **Fork**: 372 · **开放 issue**: 12,574 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2737 · **开放 PR**: 26 · **已关闭 issue**: 12087 · **开放 issue**: 486 · **提交数**: 45875
+- **发布数**: 0 · **已合并 PR**: 2738 · **开放 PR**: 27 · **已关闭 issue**: 12087 · **开放 issue**: 487 · **提交数**: 45877
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 43 | 5 | 13 | 14 | 123 |
-| last60d | 2026-08-07 | 0 | 76 | 6 | 30 | 19 | 368 |
-| 90d | 2026-07-08 | 0 | 106 | 7 | 52 | 25 | 469 |
-| last180d | 2026-04-09 | 0 | 237 | 13 | 132 | 39 | 970 |
-| 360d | 2025-10-11 | 0 | 389 | 15 | 238 | 71 | 1884 |
-| last720d | 2024-10-16 | 0 | 823 | 19 | 517 | 156 | 3690 |
+| 30d | 2026-09-07 | 0 | 42 | 6 | 13 | 14 | 125 |
+| last60d | 2026-08-08 | 0 | 77 | 7 | 30 | 20 | 370 |
+| 90d | 2026-07-09 | 0 | 104 | 8 | 50 | 26 | 471 |
+| last180d | 2026-04-10 | 0 | 238 | 14 | 130 | 40 | 972 |
+| 360d | 2025-10-12 | 0 | 390 | 16 | 238 | 72 | 1886 |
+| last720d | 2024-10-17 | 0 | 820 | 20 | 517 | 157 | 3689 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ cyberduck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:31:31Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:50:35Z._
