@@ -2,7 +2,29 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
-  version: 6.2.9.26659
+  version: 6.6.1.28146
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 5.4.4.23962
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.6.2.28219
   origversion: null
   status: legacy
   licenses:
@@ -93,9 +115,9 @@
 - repo: nix_unstable
   srcname: cyberduck
   visiblename: cyberduck
-  version: 9.2.4.43667
+  version: 9.5.4.45528
   origversion: null
-  status: outdated
+  status: newest
   summary: Libre file transfer client for Mac and Windows
   maintainers:
     - emily+nix@downunderctf.com
@@ -205,17 +227,6 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
-  version: 5.4.4.23962
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
   version: 6.1.0.25371
   origversion: null
   status: legacy
@@ -272,6 +283,17 @@
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
   version: 6.2.6.26405
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.2.9.26659
   origversion: null
   status: legacy
   licenses:
@@ -393,28 +415,6 @@
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
   version: 6.5.0.27854
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.6.1.28146
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.6.2.28219
   origversion: null
   status: legacy
   licenses:
