@@ -2,28 +2,28 @@ about:
   description: "Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows."
   license: GPL-3.0
   homepage: https://cyberduck.io
-  head: d7b66d0
+  head: 76acf22
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:43:44Z
+  collectedAt: 2026-10-30T06:43:20Z
 timeline:
   created: 2017-01-20
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4880
+  star: 4882
   watcher: 51
   fork: 382
   release: 0
   contributor: 49
-  pullRequest: 3598
-  issue: 12595
+  pullRequest: 3602
+  issue: 12598
 language:
-  Java: 23381742
+  Java: 23381323
   C#: 1818979
   Rich Text Format: 257907
   HTML: 86487
@@ -37,72 +37,72 @@ language:
   JavaScript: 1366
   Swift: 1144
   Makefile: 191
-totalBytes: 25667379
+totalBytes: 25666960
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 47
-    openPR: 18
-    closedIssue: 20
-    openIssue: 9
-    commit: 234
+    mergedPR: 50
+    openPR: 16
+    closedIssue: 19
+    openIssue: 11
+    commit: 256
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 97
-    openPR: 20
-    closedIssue: 41
-    openIssue: 17
-    commit: 478
+    mergedPR: 98
+    openPR: 18
+    closedIssue: 40
+    openIssue: 19
+    commit: 500
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 127
-    openPR: 20
+    mergedPR: 131
+    openPR: 18
     closedIssue: 55
-    openIssue: 22
-    commit: 642
+    openIssue: 23
+    commit: 664
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 261
-    openPR: 23
+    mergedPR: 266
+    openPR: 21
     closedIssue: 141
-    openIssue: 39
-    commit: 1134
+    openIssue: 41
+    commit: 1156
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 414
-    openPR: 23
-    closedIssue: 251
-    openIssue: 65
-    commit: 1977
+    mergedPR: 417
+    openPR: 21
+    closedIssue: 252
+    openIssue: 66
+    commit: 1999
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
-    mergedPR: 833
-    openPR: 24
-    closedIssue: 528
-    openIssue: 145
-    commit: 3834
+    mergedPR: 837
+    openPR: 22
+    closedIssue: 530
+    openIssue: 146
+    commit: 3847
 total:
   release: 0
-  mergedPR: 2782
-  openPR: 29
-  closedIssue: 12123
-  openIssue: 472
-  commit: 46125
+  mergedPR: 2787
+  openPR: 27
+  closedIssue: 12127
+  openIssue: 471
+  commit: 46147
 ---
 path: /home/runner/.x-repo/github.com/iterate-ch/cyberduck
-collectedAt: 2026-10-29T06:44:27Z
+collectedAt: 2026-10-30T06:44:03Z
 loc:
   Java:
-    code: 383617
-    comments: 131092
-    blanks: 81412
-    files: 4611
+    code: 383620
+    comments: 131069
+    blanks: 81401
+    files: 4610
   CSharp:
     code: 48591
     comments: 8640
@@ -114,10 +114,10 @@ loc:
     blanks: 0
     files: 18
   Xml:
-    code: 7304
-    comments: 1100
-    blanks: 323
-    files: 87
+    code: 7399
+    comments: 1114
+    blanks: 325
+    files: 88
   Yaml:
     code: 2298
     comments: 0
@@ -229,9 +229,9 @@ loc:
     blanks: 1982
     files: 44
 total:
-  code: 499638
-  comments: 155715
-  blanks: 90895
+  code: 499736
+  comments: 155706
+  blanks: 90886
   files: 5266
 ---
 date: "2026-10-19"
