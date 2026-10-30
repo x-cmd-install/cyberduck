@@ -14,14 +14,14 @@ x install cyberduck
 
 ## Code insight
 
-Total: **499,554** lines of code across **5057** files in the top 5 languages.
+Total: **499,652** lines of code across **5057** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 383,617 | 131,092 | 81,412 | 4611 |
+| Java | 383,620 | 131,069 | 81,401 | 4610 |
 | CSharp | 48,591 | 8,640 | 5,815 | 337 |
 | Json | 48,072 | 0 | 0 | 18 |
-| Xml | 7,304 | 1,100 | 323 | 87 |
+| Xml | 7,399 | 1,114 | 325 | 88 |
 | Yaml | 2,298 | 0 | 14 | 4 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,880 · **Forks**: 382 · **Open issues**: 12,595 · **Contributors**: 49
+- **Stars**: 4,882 · **Forks**: 382 · **Open issues**: 12,598 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2782 · **Open PRs**: 29 · **Closed issues**: 12123 · **Open issues**: 472 · **Commits**: 46125
+- **Releases**: 0 · **Merged PRs**: 2787 · **Open PRs**: 27 · **Closed issues**: 12127 · **Open issues**: 471 · **Commits**: 46147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 47 | 18 | 20 | 9 | 234 |
-| last60d | 2026-08-30 | 0 | 97 | 20 | 41 | 17 | 478 |
-| 90d | 2026-07-31 | 0 | 127 | 20 | 55 | 22 | 642 |
-| last180d | 2026-05-02 | 0 | 261 | 23 | 141 | 39 | 1134 |
-| 360d | 2025-11-03 | 0 | 414 | 23 | 251 | 65 | 1977 |
-| last720d | 2024-11-08 | 0 | 833 | 24 | 528 | 145 | 3834 |
+| 30d | 2026-09-30 | 0 | 50 | 16 | 19 | 11 | 256 |
+| last60d | 2026-08-31 | 0 | 98 | 18 | 40 | 19 | 500 |
+| 90d | 2026-08-01 | 0 | 131 | 18 | 55 | 23 | 664 |
+| last180d | 2026-05-03 | 0 | 266 | 21 | 141 | 41 | 1156 |
+| 360d | 2025-11-04 | 0 | 417 | 21 | 252 | 66 | 1999 |
+| last720d | 2024-11-09 | 0 | 837 | 22 | 530 | 146 | 3847 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:44:36Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:44:13Z._
