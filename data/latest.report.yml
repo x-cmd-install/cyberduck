@@ -2,107 +2,107 @@ about:
   description: "Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows."
   license: GPL-3.0
   homepage: https://cyberduck.io
-  head: 76acf22
+  head: ee97cae
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:43:20Z
+  collectedAt: 2026-10-31T06:31:10Z
 timeline:
   created: 2017-01-20
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4882
+  star: 4884
   watcher: 51
-  fork: 382
+  fork: 384
   release: 0
   contributor: 49
-  pullRequest: 3602
-  issue: 12598
+  pullRequest: 3605
+  issue: 12602
 language:
-  Java: 23381323
-  C#: 1818979
+  Java: 23448995
+  C#: 1818997
   Rich Text Format: 257907
-  HTML: 86487
+  HTML: 91351
   Objective-C: 82051
   Shell: 15149
   C: 10688
-  Dockerfile: 4644
+  Dockerfile: 4870
   Python: 2676
   PowerShell: 2276
   Ruby: 2079
   JavaScript: 1366
   Swift: 1144
   Makefile: 191
-totalBytes: 25666960
+totalBytes: 25739740
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 50
-    openPR: 16
-    closedIssue: 19
+    mergedPR: 57
+    openPR: 10
+    closedIssue: 21
     openIssue: 11
-    commit: 256
+    commit: 408
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
-    mergedPR: 98
-    openPR: 18
-    closedIssue: 40
-    openIssue: 19
-    commit: 500
+    mergedPR: 105
+    openPR: 11
+    closedIssue: 45
+    openIssue: 18
+    commit: 652
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 131
-    openPR: 18
-    closedIssue: 55
-    openIssue: 23
-    commit: 664
+    mergedPR: 140
+    openPR: 12
+    closedIssue: 60
+    openIssue: 22
+    commit: 816
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
-    mergedPR: 266
-    openPR: 21
-    closedIssue: 141
-    openIssue: 41
-    commit: 1156
+    mergedPR: 275
+    openPR: 15
+    closedIssue: 146
+    openIssue: 39
+    commit: 1308
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
-    mergedPR: 417
-    openPR: 21
-    closedIssue: 252
-    openIssue: 66
-    commit: 1999
+    mergedPR: 425
+    openPR: 15
+    closedIssue: 257
+    openIssue: 64
+    commit: 2151
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
-    mergedPR: 837
-    openPR: 22
-    closedIssue: 530
-    openIssue: 146
-    commit: 3847
+    mergedPR: 845
+    openPR: 16
+    closedIssue: 539
+    openIssue: 141
+    commit: 4004
 total:
   release: 0
-  mergedPR: 2787
-  openPR: 27
-  closedIssue: 12127
-  openIssue: 471
-  commit: 46147
+  mergedPR: 2797
+  openPR: 20
+  closedIssue: 12137
+  openIssue: 465
+  commit: 46304
 ---
 path: /home/runner/.x-repo/github.com/iterate-ch/cyberduck
-collectedAt: 2026-10-30T06:44:03Z
+collectedAt: 2026-10-31T06:31:51Z
 loc:
   Java:
-    code: 383620
-    comments: 131069
-    blanks: 81401
-    files: 4610
+    code: 384265
+    comments: 131605
+    blanks: 81640
+    files: 4621
   CSharp:
     code: 48591
     comments: 8640
@@ -114,7 +114,7 @@ loc:
     blanks: 0
     files: 18
   Xml:
-    code: 7399
+    code: 7410
     comments: 1114
     blanks: 325
     files: 88
@@ -129,7 +129,7 @@ loc:
     blanks: 0
     files: 20
   Html:
-    code: 1451
+    code: 1515
     comments: 0
     blanks: 73
     files: 1
@@ -169,20 +169,20 @@ loc:
     blanks: 0
     files: 1
   Dockerfile:
-    code: 133
+    code: 139
     comments: 0
-    blanks: 23
+    blanks: 26
+    files: 6
+  Bitbake:
+    code: 100
+    comments: 0
+    blanks: 15
     files: 5
   C:
     code: 97
     comments: 92
     blanks: 28
     files: 1
-  Bitbake:
-    code: 65
-    comments: 0
-    blanks: 10
-    files: 2
   Python:
     code: 64
     comments: 8
@@ -220,7 +220,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2628
+    comments: 2647
     blanks: 454
     files: 8
   Text:
@@ -229,10 +229,10 @@ loc:
     blanks: 1982
     files: 44
 total:
-  code: 499736
-  comments: 155706
-  blanks: 90886
-  files: 5266
+  code: 500497
+  comments: 156261
+  blanks: 91133
+  files: 5281
 ---
 date: "2026-10-19"
 repo:
