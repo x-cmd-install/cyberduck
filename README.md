@@ -14,14 +14,14 @@ x install cyberduck
 
 ## Code insight
 
-Total: **500,745** lines of code across **5070** files in the top 5 languages.
+Total: **501,905** lines of code across **5078** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 384,575 | 131,644 | 81,673 | 4623 |
-| CSharp | 48,613 | 8,640 | 5,817 | 337 |
-| Json | 48,072 | 0 | 0 | 18 |
-| Xml | 7,410 | 1,114 | 325 | 88 |
+| Java | 385,496 | 131,841 | 81,771 | 4628 |
+| CSharp | 48,614 | 8,640 | 5,817 | 337 |
+| Json | 48,094 | 0 | 0 | 21 |
+| Xml | 7,440 | 1,114 | 325 | 88 |
 | Yaml | 2,298 | 0 | 14 | 4 |
 
 ## OpenSSF Scorecard
@@ -40,32 +40,57 @@ Lowest-scoring checks:
 - **Homepage**: <https://cyberduck.io>
 - **License**: GPL-3.0
 
+## Release
+
+- **Latest**: `release-9-6-0` (2026-11-05)
+- **Last commit**: 2026-11-06
+- **Assets in release**: 14
+
 ## Popularity
 
-- **Stars**: 4,900 · **Forks**: 386 · **Open issues**: 12,605 · **Contributors**: 50
+- **Stars**: 4,899 · **Forks**: 386 · **Open issues**: 12,607 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2806 · **Open PRs**: 22 · **Closed issues**: 12141 · **Open issues**: 464 · **Commits**: 46357
+- **Releases**: 1 · **Merged PRs**: 2814 · **Open PRs**: 22 · **Closed issues**: 12143 · **Open issues**: 464 · **Commits**: 46414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 62 | 12 | 19 | 14 | 432 |
-| last60d | 2026-09-06 | 0 | 110 | 13 | 41 | 20 | 600 |
-| 90d | 2026-08-07 | 0 | 143 | 14 | 58 | 25 | 844 |
-| last180d | 2026-05-09 | 0 | 244 | 16 | 142 | 41 | 1264 |
-| 360d | 2025-11-10 | 0 | 431 | 17 | 256 | 66 | 2153 |
-| last720d | 2024-11-15 | 0 | 847 | 18 | 534 | 140 | 4031 |
+| 30d | 2026-10-07 | 1 | 69 | 12 | 20 | 14 | 484 |
+| last60d | 2026-09-07 | 1 | 116 | 13 | 42 | 20 | 652 |
+| 90d | 2026-08-08 | 1 | 151 | 14 | 60 | 25 | 896 |
+| last180d | 2026-05-10 | 1 | 252 | 15 | 144 | 41 | 1316 |
+| 360d | 2025-11-11 | 1 | 439 | 17 | 257 | 65 | 2205 |
+| last720d | 2024-11-16 | 1 | 855 | 18 | 536 | 140 | 4084 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Cyberduck-9.6.0.46406.pkg](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-9.6.0.46406.pkg) | 172.2 MiB | `other` |
+| [Cyberduck-9.6.0.46406.zip](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-9.6.0.46406.zip) | 174.2 MiB | `other` |
+| [Cyberduck-Installer-9.6.0.46406.exe](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-Installer-9.6.0.46406.exe) | 87.7 MiB | `other` |
+| [Cyberduck-Installer-9.6.0.46406.msi](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-Installer-9.6.0.46406.msi) | 85.6 MiB | `other` |
+| [duck-9.6.0.46406-1.aarch64.rpm](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-1.aarch64.rpm) | 107.1 MiB | `runtime/rpm/aarch64` |
+| [duck-9.6.0.46406-1.x86_64.rpm](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-1.x86_64.rpm) | 108.1 MiB | `runtime/rpm/x86_64` |
+| [duck-9.6.0.46406-arm64.msi](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-arm64.msi) | 82.9 MiB | `other` |
+| [duck-9.6.0.46406-x64.msi](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-x64.msi) | 85.1 MiB | `other` |
+| [duck-9.6.0.46406.exe](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.exe) | 168.6 MiB | `other` |
+| [duck-9.6.0.46406.pkg](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.pkg) | 155.1 MiB | `other` |
+| [duck-9.6.0.46406.tar.gz](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.tar.gz) | 155.0 MiB | `native/unknown` |
+| [duck-src-9.6.0.46406.tar.gz](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-src-9.6.0.46406.tar.gz) | 30.7 MiB | `native/unknown` |
+| [duck_9.6.0.46406_amd64.deb](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_amd64.deb) | 105.8 MiB | `runtime/deb/amd64` |
+| [duck_9.6.0.46406_arm64.deb](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_arm64.deb) | 107.0 MiB | `runtime/deb/arm64` |
 
 ## Distribution status
 
-Reported by **138** distros on [repology.org](https://repology.org/project/cyberduck). **4** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **138** distros on [repology.org](https://repology.org/project/cyberduck). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `9.5.4.45528` | ✅ latest |
+| Nix unstable | `9.5.4.45528` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -76,4 +101,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:51:06Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:50:59Z._
