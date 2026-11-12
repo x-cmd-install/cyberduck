@@ -1,81 +1,8 @@
-- repo: homebrew_casks
-  srcname: cyberduck
-  visiblename: Cyberduck
-  version: 9.6.0
-  origversion: null
-  status: outdated
-  summary: Server and cloud storage browser
 - repo: npackd_stable
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
-  version: 6.2.11.26765
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.4.1.27633
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.3.0.27105
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.3.1.27228
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.4.4.27722
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.3.2.27291
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.2.10.26754
+  version: 6.2.0.25806
   origversion: null
   status: legacy
   licenses:
@@ -96,6 +23,13 @@
   origversion: null
   status: outdated
   summary: Libre FTP, SFTP, WebDAV, S3 and OpenStack Swift browser for Mac and Windows
+- repo: homebrew_casks
+  srcname: cyberduck
+  visiblename: Cyberduck
+  version: 9.6.0
+  origversion: null
+  status: outdated
+  summary: Server and cloud storage browser
 - repo: nix_stable_24_05
   srcname: cyberduck
   visiblename: cyberduck
@@ -293,17 +227,6 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
-  version: 6.2.0.25806
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
   version: 6.2.2.26027
   origversion: null
   status: legacy
@@ -359,6 +282,61 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
+  version: 6.2.10.26754
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.2.11.26765
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.3.0.27105
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.3.1.27228
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.3.2.27291
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
   version: 6.3.5.27408
   origversion: null
   status: legacy
@@ -371,6 +349,28 @@
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
   version: 6.4.0.27606
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.4.1.27633
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.4.4.27722
   origversion: null
   status: legacy
   licenses:
@@ -916,6 +916,15 @@
     - GPLv2
   categories:
     - Communications
+- repo: scoop
+  subrepo: extras
+  binname: cyberduck
+  visiblename: cyberduck
+  version: 9.6.0.46406
+  origversion: null
+  status: newest
+  licenses:
+    - Freeware
 - repo: npackd_stable
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
@@ -1483,20 +1492,22 @@
   visiblename: Cyberduck
   version: 9.5.4.45528
   origversion: null
-  status: outdated
+  status: legacy
   licenses:
     - GPLv2
   categories:
     - Communications
-- repo: scoop
-  subrepo: extras
-  binname: cyberduck
-  visiblename: cyberduck
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
   version: 9.6.0.46406
   origversion: null
   status: newest
   licenses:
-    - Freeware
+    - GPLv2
+  categories:
+    - Communications
 - repo: wikidata
   srcname: Q1147137
   visiblename: Cyberduck
