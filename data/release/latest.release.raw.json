@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 180585682,
       "digest": "sha256:1b1f10499abd4ac74f1699898acdab677c63b450baeb376856cfee26174937a9",
-      "download_count": 59,
+      "download_count": 77,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:48Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-9.6.0.46406.pkg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 182675884,
       "digest": "sha256:a9195fb3dc904265dbb1b238d707e3ac4ac8a1ed356b188464e8773aad3a8ca8",
-      "download_count": 85,
+      "download_count": 99,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:49Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-9.6.0.46406.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 92009848,
       "digest": "sha256:9a66f8fb400feaa5f7f390f9e4100e873f6be06cbf7c61f1651fca8b1f31c930",
-      "download_count": 116,
+      "download_count": 133,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:42Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-Installer-9.6.0.46406.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 89780224,
       "digest": "sha256:a59c54fb56957c2451222b0f6ba5584ba159a4c2c75cfe89633856a64ba15aac",
-      "download_count": 230,
+      "download_count": 239,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:42Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/Cyberduck-Installer-9.6.0.46406.msi"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 112277496,
       "digest": "sha256:ff0e388b19e4c0505244503197f9203ef72f2c1ca69d88e5ffaa92a264756e63",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:43Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-1.aarch64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 113352754,
       "digest": "sha256:7731551675755846ec1a502ca2a2cf2a697e30026afe80c29f43ec9e8e090c6d",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:43Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-1.x86_64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 86876160,
       "digest": "sha256:58802d77e268cf10ed92f7a6f140d9e131c21eaf962b2be09019a3cdfb700b8d",
-      "download_count": 53,
+      "download_count": 64,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:43Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-arm64.msi"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 89251840,
       "digest": "sha256:02e08d0a172158db6ce947c02ca178e2a9fe54eee6e4a862784bae2a88ffd17d",
-      "download_count": 331,
+      "download_count": 360,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:43Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406-x64.msi"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 176758272,
       "digest": "sha256:c7027efc2cd6da3f75724659677730a1d9207daff990c6ce885689c0137ae8d9",
-      "download_count": 42,
+      "download_count": 54,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:49Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 162624987,
       "digest": "sha256:e60882294f6bc78ea33591bb7d8df79d6d61389d7cc4f833d216be19512a78d1",
-      "download_count": 19,
+      "download_count": 26,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:46Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.pkg"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 162494792,
       "digest": "sha256:9fa259aa4d62e940fd6e76ee0a1e29369a7e394a0e1364c18cd0359d63273298",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:48Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-9.6.0.46406.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 32194736,
       "digest": "sha256:658875337df34d0fb90b08086e1192972c6316cfc99f3d2f7f135e5b324e1f20",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:34Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck-src-9.6.0.46406.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 110921096,
       "digest": "sha256:b76f3fefdd0756b08e7e3015f46273a73f5cf78bc9f0d83c7d0d6e7e90ea6ca6",
-      "download_count": 17,
+      "download_count": 23,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:44Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 112194574,
       "digest": "sha256:65eb5250aef00d5c0eab1927dc76fb7385a3ee51816d2dba43d9875c75169481",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-05T15:56:30Z",
       "updated_at": "2026-11-05T15:56:44Z",
       "browser_download_url": "https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_arm64.deb"
