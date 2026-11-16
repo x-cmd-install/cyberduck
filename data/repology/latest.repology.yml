@@ -2,7 +2,18 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
-  version: 6.2.0.25806
+  version: 6.2.11.26765
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.2.9.26659
   origversion: null
   status: legacy
   licenses:
@@ -12,9 +23,9 @@
 - repo: chocolatey
   binname: cyberduck
   visiblename: Cyberduck
-  version: 9.5.4.45528
+  version: 9.6.0.46406
   origversion: null
-  status: outdated
+  status: newest
   summary: Cyberduck is a libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser for Mac and Windows
 - repo: chocolatey
   binname: cyberduck.install
@@ -78,6 +89,17 @@
     - nix@dimitarnestorov.com
   licenses:
     - GPL-3.0-or-later
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
+  version: 6.2.10.26754
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
 - repo: nix_stable_26_05
   srcname: cyberduck
   visiblename: cyberduck
@@ -227,6 +249,17 @@
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
+  version: 6.2.0.25806
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ch.cyberduck.Cyberduck
+  binname: ch.cyberduck.Cyberduck
+  visiblename: Cyberduck
   version: 6.2.2.26027
   origversion: null
   status: legacy
@@ -261,39 +294,6 @@
   binname: ch.cyberduck.Cyberduck
   visiblename: Cyberduck
   version: 6.2.6.26405
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.2.9.26659
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.2.10.26754
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ch.cyberduck.Cyberduck
-  binname: ch.cyberduck.Cyberduck
-  visiblename: Cyberduck
-  version: 6.2.11.26765
   origversion: null
   status: legacy
   licenses:
@@ -916,15 +916,6 @@
     - GPLv2
   categories:
     - Communications
-- repo: scoop
-  subrepo: extras
-  binname: cyberduck
-  visiblename: cyberduck
-  version: 9.6.0.46406
-  origversion: null
-  status: newest
-  licenses:
-    - Freeware
 - repo: npackd_stable
   srcname: ch.cyberduck.Cyberduck
   binname: ch.cyberduck.Cyberduck
@@ -1508,6 +1499,15 @@
     - GPLv2
   categories:
     - Communications
+- repo: scoop
+  subrepo: extras
+  binname: cyberduck
+  visiblename: cyberduck
+  version: 9.6.0.46406
+  origversion: null
+  status: newest
+  licenses:
+    - Freeware
 - repo: wikidata
   srcname: Q1147137
   visiblename: Cyberduck
