@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,914 · **Forks**: 392 · **Open issues**: 12,620 · **Contributors**: 52
+- **Stars**: 4,912 · **Forks**: 394 · **Open issues**: 12,620 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 76 | 22 | 17 | 18 | 362 |
-| last60d | 2026-09-16 | 1 | 122 | 23 | 44 | 20 | 606 |
-| 90d | 2026-08-17 | 1 | 166 | 24 | 69 | 24 | 899 |
-| last180d | 2026-05-19 | 1 | 264 | 25 | 150 | 39 | 1292 |
-| 360d | 2025-11-20 | 1 | 446 | 27 | 267 | 58 | 2166 |
-| last720d | 2024-11-25 | 1 | 862 | 27 | 558 | 124 | 4118 |
+| 30d | 2026-10-17 | 1 | 75 | 22 | 16 | 18 | 362 |
+| last60d | 2026-09-17 | 1 | 120 | 23 | 43 | 20 | 606 |
+| 90d | 2026-08-18 | 1 | 163 | 24 | 69 | 24 | 899 |
+| last180d | 2026-05-20 | 1 | 263 | 25 | 148 | 39 | 1292 |
+| 360d | 2025-11-21 | 1 | 445 | 27 | 266 | 58 | 2166 |
+| last720d | 2024-11-26 | 1 | 858 | 27 | 557 | 124 | 4103 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **139** distros on [repology.org](https://repology.org/project/cyberduck). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **139** distros on [repology.org](https://repology.org/project/cyberduck). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:43:03Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:03:19Z._
