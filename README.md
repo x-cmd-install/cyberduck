@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,918 · **Forks**: 394 · **Open issues**: 12,628 · **Contributors**: 53
+- **Stars**: 4,920 · **Forks**: 394 · **Open issues**: 12,628 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 94 | 9 | 20 | 15 | 486 |
-| last60d | 2026-09-22 | 1 | 139 | 11 | 47 | 20 | 740 |
-| 90d | 2026-08-23 | 1 | 189 | 12 | 75 | 22 | 1033 |
-| last180d | 2026-05-25 | 1 | 290 | 13 | 153 | 37 | 1426 |
-| 360d | 2025-11-26 | 1 | 468 | 15 | 272 | 56 | 2300 |
-| last720d | 2024-12-01 | 1 | 885 | 15 | 566 | 120 | 4142 |
+| 30d | 2026-10-23 | 1 | 94 | 9 | 19 | 15 | 324 |
+| last60d | 2026-09-23 | 1 | 139 | 11 | 46 | 20 | 721 |
+| 90d | 2026-08-24 | 1 | 187 | 12 | 74 | 22 | 993 |
+| last180d | 2026-05-26 | 1 | 289 | 13 | 153 | 37 | 1390 |
+| 360d | 2025-11-27 | 1 | 467 | 15 | 271 | 56 | 2249 |
+| last720d | 2024-12-02 | 1 | 884 | 15 | 565 | 119 | 4142 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:33:24Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:35:27Z._
