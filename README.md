@@ -14,14 +14,14 @@ x install cyberduck
 
 ## Code insight
 
-Total: **505,904** lines of code across **5112** files in the top 5 languages.
+Total: **507,787** lines of code across **5121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 389,447 | 133,038 | 82,333 | 4662 |
+| Java | 391,292 | 133,377 | 82,541 | 4671 |
 | CSharp | 48,625 | 8,645 | 5,818 | 337 |
 | Json | 48,094 | 0 | 0 | 21 |
-| Xml | 7,464 | 1,114 | 325 | 88 |
+| Xml | 7,465 | 1,114 | 325 | 88 |
 | Yaml | 2,298 | 0 | 14 | 4 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `release-9-6-0` (2026-11-05)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 4,920 · **Forks**: 394 · **Open issues**: 12,628 · **Contributors**: 53
+- **Stars**: 4,921 · **Forks**: 394 · **Open issues**: 12,629 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 2870 · **Open PRs**: 20 · **Closed issues**: 12195 · **Open issues**: 433 · **Commits**: 46630
+- **Releases**: 1 · **Merged PRs**: 2871 · **Open PRs**: 20 · **Closed issues**: 12195 · **Open issues**: 434 · **Commits**: 46668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 94 | 9 | 19 | 15 | 324 |
-| last60d | 2026-09-23 | 1 | 139 | 11 | 46 | 20 | 721 |
-| 90d | 2026-08-24 | 1 | 187 | 12 | 74 | 22 | 993 |
-| last180d | 2026-05-26 | 1 | 289 | 13 | 153 | 37 | 1390 |
-| 360d | 2025-11-27 | 1 | 467 | 15 | 271 | 56 | 2249 |
-| last720d | 2024-12-02 | 1 | 884 | 15 | 565 | 119 | 4142 |
+| 30d | 2026-10-24 | 1 | 93 | 9 | 19 | 16 | 362 |
+| last60d | 2026-09-24 | 1 | 140 | 11 | 45 | 21 | 759 |
+| 90d | 2026-08-25 | 1 | 188 | 12 | 74 | 23 | 1031 |
+| last180d | 2026-05-27 | 1 | 287 | 13 | 153 | 38 | 1428 |
+| 360d | 2025-11-28 | 1 | 464 | 15 | 269 | 57 | 2287 |
+| last720d | 2024-12-03 | 1 | 879 | 15 | 562 | 120 | 4180 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:35:27Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:14:35Z._
