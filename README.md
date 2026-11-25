@@ -14,11 +14,11 @@ x install cyberduck
 
 ## Code insight
 
-Total: **510,264** lines of code across **5142** files in the top 5 languages.
+Total: **510,309** lines of code across **5143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 392,928 | 133,898 | 82,746 | 4686 |
+| Java | 392,973 | 133,925 | 82,756 | 4687 |
 | CSharp | 48,917 | 8,672 | 5,894 | 343 |
 | Json | 48,094 | 0 | 0 | 21 |
 | Xml | 7,468 | 1,112 | 326 | 88 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `release-9-6-0` (2026-11-05)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 4,923 · **Forks**: 395 · **Open issues**: 12,631 · **Contributors**: 53
+- **Stars**: 4,925 · **Forks**: 395 · **Open issues**: 12,633 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 2876 · **Open PRs**: 19 · **Closed issues**: 12198 · **Open issues**: 433 · **Commits**: 46792
+- **Releases**: 1 · **Merged PRs**: 2877 · **Open PRs**: 19 · **Closed issues**: 12199 · **Open issues**: 434 · **Commits**: 46797
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 96 | 9 | 20 | 17 | 416 |
-| last60d | 2026-09-25 | 1 | 141 | 11 | 45 | 22 | 825 |
-| 90d | 2026-08-26 | 1 | 191 | 12 | 73 | 24 | 1107 |
-| last180d | 2026-05-28 | 1 | 285 | 13 | 155 | 38 | 1514 |
-| 360d | 2025-11-29 | 1 | 469 | 14 | 271 | 57 | 2411 |
-| last720d | 2024-12-04 | 1 | 882 | 14 | 564 | 120 | 4297 |
+| 30d | 2026-10-26 | 1 | 91 | 9 | 21 | 17 | 421 |
+| last60d | 2026-09-26 | 1 | 142 | 11 | 46 | 23 | 830 |
+| 90d | 2026-08-27 | 1 | 191 | 12 | 73 | 24 | 1112 |
+| last180d | 2026-05-29 | 1 | 284 | 13 | 155 | 39 | 1519 |
+| 360d | 2025-11-30 | 1 | 470 | 14 | 272 | 58 | 2416 |
+| last720d | 2024-12-05 | 1 | 880 | 14 | 564 | 121 | 4287 |
 
 ## Release assets
 
@@ -84,14 +84,6 @@ Lowest-scoring checks:
 | [duck_9.6.0.46406_amd64.deb](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_amd64.deb) | 105.8 MiB | `runtime/deb/amd64` |
 | [duck_9.6.0.46406_arm64.deb](https://github.com/iterate-ch/cyberduck/releases/download/release-9-6-0/duck_9.6.0.46406_arm64.deb) | 107.0 MiB | `runtime/deb/arm64` |
 
-## Distribution status
-
-Reported by **139** distros on [repology.org](https://repology.org/project/cyberduck). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `9.5.4.45528` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cyberduck` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +93,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:38:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:19:46Z._
