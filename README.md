@@ -14,11 +14,11 @@ x install cyberduck
 
 ## Code insight
 
-Total: **510,848** lines of code across **5145** files in the top 5 languages.
+Total: **510,863** lines of code across **5145** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 393,509 | 134,054 | 82,807 | 4689 |
+| Java | 393,524 | 134,058 | 82,809 | 4689 |
 | CSharp | 48,916 | 8,675 | 5,895 | 343 |
 | Json | 48,094 | 0 | 0 | 21 |
 | Xml | 7,468 | 1,112 | 326 | 88 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 2887 · **Open PRs**: 23 · **Closed issues**: 12202 · **Open issues**: 441 · **Commits**: 46862
+- **Releases**: 1 · **Merged PRs**: 2891 · **Open PRs**: 23 · **Closed issues**: 12207 · **Open issues**: 436 · **Commits**: 46872
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 88 | 11 | 24 | 24 | 486 |
-| last60d | 2026-09-28 | 1 | 151 | 15 | 49 | 30 | 895 |
-| 90d | 2026-08-29 | 1 | 200 | 16 | 75 | 31 | 1177 |
-| last180d | 2026-05-31 | 1 | 294 | 17 | 156 | 46 | 1584 |
-| 360d | 2025-12-02 | 1 | 473 | 18 | 274 | 65 | 2481 |
-| last720d | 2024-12-07 | 1 | 890 | 18 | 565 | 128 | 4338 |
+| 30d | 2026-10-29 | 1 | 89 | 11 | 22 | 23 | 496 |
+| last60d | 2026-09-29 | 1 | 153 | 15 | 49 | 28 | 905 |
+| 90d | 2026-08-30 | 1 | 204 | 16 | 76 | 30 | 1187 |
+| last180d | 2026-06-01 | 1 | 298 | 17 | 156 | 45 | 1594 |
+| 360d | 2025-12-03 | 1 | 477 | 18 | 272 | 63 | 2491 |
+| last720d | 2024-12-08 | 1 | 894 | 18 | 569 | 124 | 4348 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for cyberduck lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:22:40Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:22:10Z._
